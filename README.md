@@ -25,17 +25,3 @@ The experiments use a labelled text dataset containing suicidal and
 non-suicidal social-media posts.
 
 The dataset is not stored directly in this repository.
-
-## Repository Structure
-
-```text
-notebooks/
-    01_baseline_logistic_svm.ipynb
-    02_advanced_nlp_models.ipynb
-
-reports/
-    final_project_report.docx
-    baseline_project_report.docx
-
-data/
-    README.md
