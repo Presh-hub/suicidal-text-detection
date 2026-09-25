@@ -46,28 +46,7 @@ Expected local structure:
 ```text
 data/
 └── Suicide_Detection.csv
-```
 
-## Repository Structure
-
-```text
-suicidal-text-classification/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── notebooks/
-│   ├── 01_baseline_logistic_svm.ipynb
-│   └── 02_advanced_nlp_models.ipynb
-│
-├── reports/
-│   ├── final_project_report.docx
-│   └── baseline_project_report.docx
-│
-└── data/
-    └── README.md
-```
 
 ### Notebook Descriptions
 
@@ -261,18 +240,3 @@ Possible future extensions include:
 - A carefully designed research demo interface
 - Comparison with newer transformer architectures
 
-## Team
-
-Add your team details here:
-
-- **Member 1:** Name
-- **Member 2:** Name
-- **Member 3:** Name
-
-## Academic Context
-
-This project was completed as an academic NLP / machine-learning project. It demonstrates the development of a complete text-classification workflow from preprocessing through model comparison and evaluation.
-
-## License
-
-Add a licence only after confirming that the code, dataset, and included materials can legally be shared under that licence.
